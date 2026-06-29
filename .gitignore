@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+.venv-release/
+
+# IDE
+.idea/
+.vscode/
+
+# Local data / cache
+data/
+cache/
+*.log
+
+# Secrets / config
+.env
+config.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pyinstaller build output
+dist/
+build/
+
+# Release Files
+*.zip
+*.spec
+SHA256SUMS.txt
